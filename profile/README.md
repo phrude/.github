@@ -2,7 +2,7 @@
 
 <https://phrude.com/>
 
-Profiling History-based Runtime Detection system
+Profiling History-based Runtime Detection System
 
 PhrudeはWebアプリに任意の処理を挿入する攻撃を検知するために内部処理分析を用いる新たなセキュリティ対策ツールです。
 
